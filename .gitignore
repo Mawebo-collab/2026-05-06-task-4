@@ -1,0 +1,9 @@
+# Playwright debug
+.playwright-cli/
+
+# Debug screenshots
+debug_screen*.png
+snap*.yaml
+
+# macOS
+.DS_Store
